@@ -1,8 +1,13 @@
-# Safa Hearts - Community Support Platform
+# Safa Hearts - Community Support Platform (Vanilla CSS Version)
 
 A responsive, multi-page website connecting people who need help with those who want to give it, built with semantic HTML, CSS Flexbox, and CSS variables.
 
 ---
+## Project Context
+
+This project was built as part of the Step9Up BootCamp curriculum:
+- **Week 2:** Built from scratch using semantic HTML, CSS Flexbox, and CSS variables
+- **Week 3:** Migrated to Bootstrap 4.5.2 (see separate repository safa-hearts-bootstrap)
 
 ## Project Overview
 
